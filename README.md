@@ -7,3 +7,8 @@ React + Typescript + styled-components template for [Create React App](https://g
 ```sh
 npx create-react-app my-app --template essential
 ```
+
+## Supports
+
+- ESLint
+- Prettier
