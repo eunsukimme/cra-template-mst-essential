@@ -10,6 +10,8 @@ npx create-react-app my-app --template essential
 
 ## Supports
 
+- Craro
 - Styled-components
 - ESLint
 - Prettier
+- etc(absolute paths, ...)
