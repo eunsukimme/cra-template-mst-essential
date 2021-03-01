@@ -1,11 +1,11 @@
-# cra-template-essential
+# cra-template-mst-essential
 
 React + Typescript + Mobx-state-tree template for [Create React App](https://github.com/facebook/create-react-app)
 
 ## Usage
 
 ```sh
-npx create-react-app my-app --template essential
+npx create-react-app my-app --template mst-essential
 ```
 
 ## Supports
