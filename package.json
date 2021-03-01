@@ -1,24 +1,25 @@
 {
-  "name": "cra-template-essential",
+  "name": "cra-template-mst-essential",
   "version": "1.0.4",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "typescript"
+    "typescript",
+    "mobx-state-tree"
   ],
   "description": "The base React + TypeScript + styled-components template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eunsukimme/cra-template-essential.git",
-    "directory": "packages/cra-template-essential"
+    "url": "https://github.com/eunsukimme/cra-template-mst-essential.git",
+    "directory": "packages/cra-template-mst-essential"
   },
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/eunsukimme/cra-template-essential/issues"
+    "url": "https://github.com/eunsukimme/cra-template-mst-essential/issues"
   },
   "files": [
     "template",
